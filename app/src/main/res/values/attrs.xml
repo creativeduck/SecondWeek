@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalItemView">
+        <attr name="title" format="reference|string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomMainMovieView">
+        <attr name="poster" format="reference|integer"/>
+        <attr name="textFirst" format="reference|string"/>
+        <attr name="textSecond" format="reference|string"/>
+        <attr name="textThird" format="reference|string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomRecommendView">
+        <attr name="keyword" format="reference|string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomHistory">
+        <attr name="history_poster" format="reference|integer"/>
+        <attr name="history_title" format="reference|string"/>
+    </declare-styleable>
+</resources>
