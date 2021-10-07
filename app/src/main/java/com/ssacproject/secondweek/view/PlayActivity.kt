@@ -66,17 +66,18 @@ class PlayActivity : AppCompatActivity() {
         setContentView(R.layout.activity_play)
 
         urls = HashMap<String, String>()
-        urls["주토피아"] = "https://cdn.kapwing.com/final_6141cd3752415e00feef56b4_170276.mp4"
-        urls["매드 맥스: 분노의 도로"] = "https://cdn.kapwing.com/final_6141ce1e1c793d0044e30d32_155181.mp4"
-        urls["스파이더맨"] = "https://cdn.kapwing.com/final_613d6a8e856f4500ed61a130_836060.mp4"
-        urls["스파이더맨 2"] = "https://cdn.kapwing.com/final_613d6577b205cc010e5bb069_748565.mp4"
-        urls["스파이더맨 3"] = "https://cdn.kapwing.com/final_613d651011db5e00b1c1493d_690179.mp4"
-        urls["찰리와 초콜릿 공장"] = "https://cdn.kapwing.com/final_613d6a4a12652901501c9433_36216.mp4"
-        urls["소스 코드"] = "https://cdn.kapwing.com/final_613d643af583a00069f1002a_151420.mp4"
-        urls["엑스맨: 퍼스트 클래스"] = "https://cdn.kapwing.com/final_613d698c69c9200071d1956e_678514.mp4"
-        urls["스텝업4 : 레볼루션"] = "https://cdn.kapwing.com/final_613d671a10c76c0090ad198b_3785.mp4"
-        urls["스텝 업 3D"] = "https://cdn.kapwing.com/final_613d64a2ce0bfc005986fc96_318088.mp4"
-        urls["진격의 거인: 홍련의 화살"] = "https://cdn.kapwing.com/final_613d8a10d41fe1006f3693d3_728061.mp4"
+        // url은 자유롭게 설정하시면 됩니다.
+        urls["주토피아"] = "url"
+        urls["매드 맥스: 분노의 도로"] = "url"
+        urls["스파이더맨"] = "url"
+        urls["스파이더맨 2"] = "url"
+        urls["스파이더맨 3"] = "url"
+        urls["찰리와 초콜릿 공장"] = "url"
+        urls["소스 코드"] = "url"
+        urls["엑스맨: 퍼스트 클래스"] = "url"
+        urls["스텝업4 : 레볼루션"] = "url"
+        urls["스텝 업 3D"] = "url"
+        urls["진격의 거인: 홍련의 화살"] = "url"
 
 
         movieTitle = findViewById(R.id.movieTitle)
