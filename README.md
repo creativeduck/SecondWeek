@@ -9,7 +9,11 @@
 + ExoPlayer2
 + Glide
 + GSON
-+ Volley   
++ Volley    
+
+### 👾 OPEN API   
++ TMDB API
++ 영화진흥위원회 API   
 
 ### ✏️ 중점 사항   
 + 다양한 생명주기 메서드를 활용하여 실제 사용되고 있는 서비스와 유사할 수 있도록 구현했습니다.  
