@@ -1,5 +1,6 @@
 ## 👋 Wavve 클론 코딩
 [Notion](https://www.notion.so/Wavve-a24bac0f7c8348cab4583ec5742de9a9)   
+<img width="400" alt="asdf" src="https://user-images.githubusercontent.com/89892954/137140466-384d515b-a273-4a50-8d95-39db4d37105b.gif">  
 <img width="690" alt="asdf" src="https://user-images.githubusercontent.com/89892954/136993650-6aff0cf0-ff5a-4430-a0bb-b5b9fa05c1ff.png">   
 ### 🛠 기능
 + 동영상 재생
